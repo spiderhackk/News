@@ -1,0 +1,12 @@
+
+.card-full {
+    margin-left:12.6rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 76rem;
+    border-radius: 12px;
+    background-color: ghostwhite;
+    height: 48rem;
+    
+}  
+
